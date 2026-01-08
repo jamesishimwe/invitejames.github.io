@@ -1,2 +1,2 @@
 # Invitejames.github.io
-EXERCISE HACKERRANK
+EXERCISE Khan Academy
